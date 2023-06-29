@@ -1,0 +1,16 @@
+ul {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 800px;
+    margin: auto;
+}
+
+li {
+    border: 1px solid black;
+    list-style: none;
+    padding: 1rem;
+    margin: 1rem;
+    width: 120px;
+    background-color: aliceblue;
+}

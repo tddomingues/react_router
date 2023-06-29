@@ -1,0 +1,19 @@
+form {
+    display: flex;
+    justify-content: left;
+    padding-left: 2rem;
+    padding-top: 2rem;
+}
+
+input[type="text"] {
+    border: none;
+    width: 400px;
+    padding: 8px;
+    background-color: rgb(244, 244, 244);
+}
+
+input[type="submit"] {
+    border: none;
+    padding: 8px;
+    background-color: rgb(254, 161, 0);
+}

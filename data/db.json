@@ -1,0 +1,53 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Camiseta Hurley Mini Icon Cinza",
+        "price": 69
+      },
+      {
+        "id": 2,
+        "name": "Camiseta Volcom Shaver Preta",
+        "price": 90
+      },
+      {
+        "id": 3,
+        "name": "Camiseta Hang Loose Logomini Bordô",
+        "price": 29.9
+      },
+      {
+        "id": 4,
+        "name": "Calça Jeans Preta Riscada Skinny Masculina",
+        "price": 54
+      },
+      {
+        "id": 5,
+        "name": "Calça Jeans Clara Skinny Masculina",
+        "price": 90
+      },
+      {
+        "id": 6,
+        "name": "Regata Oakley International Verde",
+        "price": 43
+      },{
+        "id": 7,
+        "name": "Jaqueta Nike Sportswear Essential Repel Branco",
+        "price": 90
+      },
+      {
+        "id": 8,
+        "name": "Vestido Canelado Forum Midi Gola Alta Preto",
+        "price": 43
+      },
+      {
+        "id": 9,
+        "name": "Vestido Canelado Colcci Curto Cut Out Verde",
+        "price": 212
+      },
+      {
+        "id": 10,
+        "name": "Jaqueta Nike Sportswear Club Fleece",
+        "price": 231
+      }
+    ]
+  }
